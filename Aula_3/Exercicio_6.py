@@ -1,0 +1,1 @@
+print("\nSejam bem-vindos ao Semestre 2024.2\n")
